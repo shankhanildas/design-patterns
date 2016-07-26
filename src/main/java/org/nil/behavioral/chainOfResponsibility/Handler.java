@@ -1,4 +1,4 @@
-package org.nil.chainOfResponsibility;
+package org.nil.behavioral.chainOfResponsibility;
 
 public abstract class Handler {
 	protected Handler successor;
